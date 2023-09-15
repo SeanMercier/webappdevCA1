@@ -1,0 +1,34 @@
+<table class="ui fixed inverted striped table">
+  
+  <tbody>
+    {{#each pack.movies}}
+      <tr id="listmvs">
+        <td>
+          {{title}}
+        </td>
+        <td>
+          {{director}}
+        </td>
+        <td>
+          {{genre}}
+        </td>
+        <td>
+          {{duration}}
+        </td>
+        <td>
+          <a href="/pack/{{../pack.id}}/deletemovie/{{id}}" class="ui icon button delmovie">
+  <i class="ui trash icon"></i>
+</a>
+        </td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>
+
+ <p>
+  <span id="rating"> </span>
+</p>
+
+<button class="ui blue button" id = "rateit">
+  Rate it! <i class="star icon"></i>
+</button>
