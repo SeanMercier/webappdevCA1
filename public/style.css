@@ -1,0 +1,101 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: lightblue;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+#readmore {
+  display: none;
+  font-style: oblique;
+}
+
+#welcomeuser {
+  display: none;
+}
+
+nav, div, a{
+  color: #72c5e8;
+}
+
+#readmorep{
+  color: #5db0f0;
+}
+
+div#welcomeuser{
+  color: #ff5757;
+}
+
+#mainpageheader{
+  color: white;
+  font-style: oblique;
+  font-size:200%;
+}
+
+#aboutmainheader{
+  color: #72c5e8;
+  text-decoration: underline wavy 2px;
+}
+
+#mainpagesection{
+  background-color: #170000;
+}
+
+h2#dashboard{
+  color: #72c5e8;
+}
+
+p#idparagraphs{
+  font-style: italic;
+}
+
+section#dashboardsection{
+  background-color: #f0545c;
+}
+
+tr#listmvs{
+  text-align: center;
+}
+
+div#friendsiconabout{
+  background-color: lightblue;
+}
+
+a#dashboard{
+  color: #f0545c;
+  background-color: #170000;
+  font-size: 120%;
+  font-style: bold;
+}
+
+a#about{
+  background-color: #170000;
+  font-size: 120%;
+  color: #f0545c;
+}
+
+header#moviemanagerbox{
+  background-color: #170000;
+}
+
+#addpackarea{
+  text-align: center;
+}
+
+section#about{
+  background-color: #f0545c;
+}
+
+span#date{
+  font-style: italic;
+}
+
+div#description{
+  font-size: 110%;
+}

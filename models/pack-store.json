@@ -1,0 +1,81 @@
+{
+  "packCollection": [
+    {
+      "id": "01",
+      "title": "Action",
+      "duration": 498,
+      "movies": [
+        {
+          "id": "04",
+          "title": "The Godfather",
+          "director": "Francis Ford Coppola",
+          "main actor": "Al Pacino",
+          "duration": 177
+        },
+        {
+          "id": "05",
+          "title": "The Dark Knight",
+          "director": "Christopher Nolan",
+          "main actor": "Christian Bale",
+          "duration": 152
+        },
+        {
+          "id": "06",
+          "title": "Saving Private Ryan",
+          "director": "Steven Spielberg",
+          "main actor": "Tom Hanks",
+          "duration": 169
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Comedy",
+      "duration": 297,
+      "movies": [
+        {
+          "id": "07",
+          "title": "Superbad",
+          "director": "Greg Mottola",
+          "main actor": "Jonah Hill",
+          "duration": 113
+        },
+        {
+          "id": "08",
+          "title": "Borat",
+          "director": "Larry Charles",
+          "main actor": "Sacha Baron Cohen",
+          "duration": 84
+        },
+        {
+          "id": "09",
+          "title": "The Hangover",
+          "director": "Todd Phillips",
+          "main actor": "Bradley Cooper",
+          "duration": 100
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Horror",
+      "duration": 263,
+      "movies": [
+        {
+          "id": "10",
+          "title": "The Shinning",
+          "director": "Stanley Kubrick",
+          "main actor": "Jack Nicholson",
+          "duration": 146
+        },
+        {
+          "id": "11",
+          "title": "Alien (1979)",
+          "director": "Ridley Scott",
+          "main actor": "Sigourney Weaver",
+          "duration": 117
+        }
+      ]
+    }
+  ]
+}
